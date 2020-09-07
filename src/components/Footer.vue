@@ -1,7 +1,7 @@
 <template>
     <header class="row">
         <nav class="navbar navbar-toggleable-md navbar-light">
-            <ul class="nabar-nav">
+            <ul class="navbar-nav">
                 <li class="nav-item">
                     <a href="" class="nav-link">home</a>
                 </li>
