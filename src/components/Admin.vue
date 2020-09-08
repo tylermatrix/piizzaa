@@ -63,10 +63,12 @@
 
 <script>
 import NewPizza from './NewPizza.vue'
+import Login from './Login.vue'
 
 export default { 
     components: {
-        pzaNewPizza: NewPizza
+        pzaNewPizza: NewPizza,
+        pzaLogin: Login
     }
 }
 
