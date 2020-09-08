@@ -4,7 +4,7 @@
       <pza-header></pza-header>
     </div>
     <div class="container">      
-      <pza-admin></pza-admin>
+      <router-view></router-view>
     </div>
     <div class="container">      
       <pza-footer></pza-footer>
@@ -15,9 +15,6 @@
 <script>
 import Header from './components/Header.vue'
 import Footer from './components/Footer.vue'
-import Home from './components/Home.vue'
-import Menu from './components/Menu.vue'
-import Admin from './components/Admin.vue'
 
 
 
@@ -25,9 +22,6 @@ export default {
   components: {
     pzaHeader: Header,
     pzaFooter: Footer,
-    pzaHome: Home,
-    pzaMenu: Menu,
-    pzaAdmin: Admin
   }
 }
 </script>
