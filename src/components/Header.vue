@@ -3,8 +3,8 @@
         <nav class="navbar navbar-toggleable-md navbar-light">
             <a class="navbar-brand" href="/"> piizzaa</a>
             <ul class="navbar-nav">
-                    <router-link :to="homeLink" tag="li"><a href="" class="nav-link">home</a></router-link>       
-                    <router-link :to="menuLink" tag="li"><a href="" class="nav-link">menu</a></router-link>
+                    <router-link :to="{ name: 'homeLink'}" tag="li"><a href="" class="nav-link">home</a></router-link>       
+                    <router-link :to="{ name: 'menuLink'}" tag="li"><a href="" class="nav-link">menu</a></router-link>
             </ul>
         </nav>
     </header>
@@ -14,8 +14,6 @@
 export default {
   data() {
       return {
-          homeLink: '/',
-          menuLink: '/menu'
       }
   }
 }

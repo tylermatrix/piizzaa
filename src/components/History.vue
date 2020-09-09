@@ -1,0 +1,11 @@
+  
+<template>
+  <div class="card">
+  <div class="card-block">
+    <h4 class="card-title">History</h4>
+    <p class="card-text">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque inventore, dicta magnam maxime repellat dolores veniam quia quam. Dolore voluptatem amet maxime dolorem alias consectetur porro qui eaque asperiores libero aliquam maiores eius quos placeat facilis, provident aperiam sequi aliquid, dolorum animi? Praesentium laudantium inventore fugit deleniti mollitia earum sequi iure hic, perferendis dolorem beatae quasi doloremque aliquam rem reiciendis nemo, provident ea. Molestias quas dolores eos quae totam laboriosam perspiciatis nulla reprehenderit ea autem dolore natus, voluptatibus quos minus libero dolorem cumque assumenda repudiandae. Quaerat, perferendis. Odio ullam neque nobis nisi impedit iusto, est quisquam minus natus, perspiciatis incidunt quidem hic? Eos qui obcaecati aspernatur tenetur iure perferendis deleniti doloremque et odit corrupti. Porro consequatur corrupti natus amet reprehenderit provident dolor animi ratione numquam dolores? Sunt saepe nostrum non maiores sint, quas mollitia natus porro necessitatibus. Unde magnam illo rerum iste eos, quia hic deleniti corrupti, culpa mollitia maiores corporis impedit nam eius adipisci ratione odio reiciendis ab excepturi ut quis voluptatum in. Facere harum nisi sequi labore rem culpa. Debitis rerum assumenda sequi aut impedit quibusdam sint, voluptatem aspernatur velit eaque! In sint assumenda eaque maxime ducimus impedit, enim, maiores, adipisci ipsum inventore delectus asperiores nisi excepturi. Dicta eaque quisquam ex voluptates ipsum neque. Ab, impedit pariatur beatae ipsam tempora assumenda aut harum atque mollitia vero, nobis, ad delectus vel quaerat nam repudiandae. Aliquam repellendus nobis saepe et facere aperiam similique aliquid quidem possimus, quis minus ut ad dicta, rerum, ducimus perferendis veritatis. Aliquid exercitationem illum fugit dolor.
+    </p>
+  </div>
+</div>
+</template>
